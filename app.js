@@ -12,6 +12,8 @@ app.listen(3000, function () {
     console.log("Server rurning")
 });
 
+
+
 // var express = require('./config/express');
 // var app = require('./config/express')();
 
